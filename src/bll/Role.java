@@ -1,0 +1,5 @@
+package bll;
+
+public enum Role {
+    BRUISER, TANK, CONTROL_MAGE, AD_DAMAGE, AD_BURST, BATTLEMAGE, BURST_MAGE
+}
